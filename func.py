@@ -6,6 +6,7 @@ def ascii_art():
                
          ''')
 
+# def ตามด้วยชื่อ คือการสร้างฟังก์ชันให้ทำตามที่เรากำหนด
 
 def trable_all(trable, trable_last, trable_block):
     if trable < trable_last:
@@ -22,3 +23,5 @@ def trable_all(trable, trable_last, trable_block):
                 print(f'สูตรคูณแม่{i}')
                 for x in range(1, 13):
                     print(f'{i} x {x} = {i*x}')
+
+# def ตามด้วยชื่อ คือการสร้างฟังก์ชันให้ทำตามที่เรากำหนด
